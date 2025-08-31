@@ -1,0 +1,19 @@
+create database project;
+
+USE project;
+
+CREATE TABLE employee (
+    name     VARCHAR(20),
+    id       INT(11),
+    emp_dept VARCHAR(20),
+    position VARCHAR(20)
+);
+
+
+
+
+CREATE TABLE contact_us (
+    contactName    VARCHAR(20),
+    contactEmail   VARCHAR(25),
+    contactMessage VARCHAR(50)
+);
