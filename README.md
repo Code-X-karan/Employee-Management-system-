@@ -22,4 +22,4 @@ Step 12: Open new tab and search  localhost/Form/index.html.
 
 Step 13: Project will run.
 
-Step 14: For check all data you entered visit to ![ss2](https://github.com/user-attachments/assets/7ccdd48d-56e8-4fb2-89ae-0bd5a175bbf6)
+Step 14: For check all data you entered visit to  localhost  then php my admin then click ![ss2](https://github.com/user-attachments/assets/7ccdd48d-56e8-4fb2-89ae-0bd5a175bbf6)
